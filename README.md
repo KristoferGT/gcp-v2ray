@@ -43,7 +43,7 @@ This project allows you to deploy a **VLESS proxy** server over **WebSocket** us
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/t.me/Leo_Duarte_01"
+          "path": "/darkness"
         }
       }
     }
@@ -144,7 +144,7 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-Made with ❤️ by [Ragnar](https://t.me/Leo_Duarte_01)
+Made with ❤️ by [Ragnar](CHRISTOPHER)
 
 ---
 
